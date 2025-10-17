@@ -35,12 +35,12 @@ social:
   name: KasWei
   email: jwei2002@uw.edu
   links:
-#    - title: GitHub
-#      url: https://github.com/EllianaLi
-#      icon: "fab fa-github"
-#    - title: LinkedIn
-#      url: www.linkedin.com/in/binxili020703
-#      icon: "fab fa-linkedin"
+   - title: GitHub
+     url: https://github.com/KAS-W
+     icon: "fab fa-github"
+   - title: LinkedIn
+     url: https://www.linkedin.com/in/jiaxingwei/
+     icon: "fab fa-linkedin"
 
 
 # Site Verification Settings
