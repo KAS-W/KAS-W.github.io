@@ -6,7 +6,7 @@ order: 4
 ---
 
 
-## I am Kas Wei
+## Hi there, this is Kas Wei!
 
 I'm a master's student at UW, passionate about quantitative research & trading, asprire to monetize insights on data patterns.
 
@@ -26,6 +26,6 @@ I'm a master's student at UW, passionate about quantitative research & trading, 
 
 ---
 
-### Fun Facts
-
-- Rookie Porker Player
+### Fun Facts: I am
+- currently a rookie porker player
+- a fan of Ariana Grande
