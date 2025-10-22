@@ -30,6 +30,9 @@ github:
 
 #twitter:
 #  username: twitter_username # change to your Twitter username
+authors:
+  KasWei:
+    name: "KasWei"
 
 social:
   name: KasWei
