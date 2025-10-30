@@ -27,5 +27,5 @@ I'm a master's student at UW, passionate about quantitative research & trading, 
 ---
 
 ### Fun Facts: I am
-- currently a rookie porker player
-- a fan of Ariana Grande
+- 🎴 currently a rookie poker player
+- ⭐ a fan of Ariana Grande
