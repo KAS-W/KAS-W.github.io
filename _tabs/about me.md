@@ -20,8 +20,8 @@ I'm a master's student at UW, passionate about quantitative research & trading, 
 
 ### Current Research Interests
 
-- Intraday alpha signal enhancement with alternative data
-- Derivative pricing and volatility surface recalibration
+- Alternative data and event study
+- Market regime identification
 - Options market-making
 
 ---
